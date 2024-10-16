@@ -1,1 +1,1 @@
-# rag-benchmarking
+# RAG-BENCHMARKING
